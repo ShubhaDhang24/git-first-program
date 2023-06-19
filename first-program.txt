@@ -1,1 +1,2 @@
 Hello testing git commands!
+hello git!
